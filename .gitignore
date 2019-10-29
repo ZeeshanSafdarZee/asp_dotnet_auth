@@ -40,6 +40,9 @@ typings
 # vs folder
 .vs
 
+# packages folder
+packages
+
 # .NET compiled files
 bin
 obj
