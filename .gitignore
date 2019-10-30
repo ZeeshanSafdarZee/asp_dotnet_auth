@@ -43,6 +43,9 @@ typings
 # packages folder
 packages
 
+# Secrets folder
+Secrets
+
 # .NET compiled files
 bin
 obj
